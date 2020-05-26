@@ -1,0 +1,9 @@
+X:\studia-cs\Lab4\Lab4-cw2\bin\Debug\Lab4-cw2.exe.config
+X:\studia-cs\Lab4\Lab4-cw2\bin\Debug\Lab4-cw2.exe
+X:\studia-cs\Lab4\Lab4-cw2\bin\Debug\Lab4-cw2.pdb
+X:\studia-cs\Lab4\Lab4-cw2\obj\Debug\Lab4_cw2.Properties.Resources.resources
+X:\studia-cs\Lab4\Lab4-cw2\obj\Debug\Lab4-cw2.csproj.GenerateResource.cache
+X:\studia-cs\Lab4\Lab4-cw2\obj\Debug\Lab4-cw2.csproj.CoreCompileInputs.cache
+X:\studia-cs\Lab4\Lab4-cw2\obj\Debug\Lab4-cw2.exe
+X:\studia-cs\Lab4\Lab4-cw2\obj\Debug\Lab4-cw2.pdb
+X:\studia-cs\Lab4\Lab4-cw2\obj\Debug\Lab4_cw2.Form1.resources

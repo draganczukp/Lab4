@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab4-cw1", "Lab4-cw1\Lab4-cw1.csproj", "{6352ECE5-1929-43E0-BB0E-67C51DC9AF51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab4-cw2", "Lab4-cw2\Lab4-cw2.csproj", "{F6C31CD0-7F17-494D-963A-B35ABDF317ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab4-cw3", "Lab4-cw3\Lab4-cw3.csproj", "{794EF42C-D22C-4824-9C67-195C2E9BC576}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6352ECE5-1929-43E0-BB0E-67C51DC9AF51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6352ECE5-1929-43E0-BB0E-67C51DC9AF51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6352ECE5-1929-43E0-BB0E-67C51DC9AF51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6352ECE5-1929-43E0-BB0E-67C51DC9AF51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6C31CD0-7F17-494D-963A-B35ABDF317ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6C31CD0-7F17-494D-963A-B35ABDF317ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6C31CD0-7F17-494D-963A-B35ABDF317ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6C31CD0-7F17-494D-963A-B35ABDF317ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{794EF42C-D22C-4824-9C67-195C2E9BC576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{794EF42C-D22C-4824-9C67-195C2E9BC576}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{794EF42C-D22C-4824-9C67-195C2E9BC576}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{794EF42C-D22C-4824-9C67-195C2E9BC576}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F22DBAC-3254-4B08-BBED-5AD9A26484E5}
+	EndGlobalSection
+EndGlobal

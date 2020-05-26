@@ -1,0 +1,84 @@
+﻿Instalowanie zestawu 'X:\studia-cs\Lab4\Lab4-cw3\bin\Debug\lab4-cw3.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = X:\studia-cs\Lab4\Lab4-cw3\bin\Debug\lab4-cw3.InstallLog
+   assemblypath = X:\studia-cs\Lab4\Lab4-cw3\bin\Debug\lab4-cw3.exe
+Nie można znaleźć instalatorów publicznych z atrybutem RunInstallerAttribute.Yes w zestawie X:\studia-cs\Lab4\Lab4-cw3\bin\Debug\lab4-cw3.exe.
+Zatwierdzanie zestawu 'X:\studia-cs\Lab4\Lab4-cw3\bin\Debug\lab4-cw3.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = X:\studia-cs\Lab4\Lab4-cw3\bin\Debug\lab4-cw3.InstallLog
+   assemblypath = X:\studia-cs\Lab4\Lab4-cw3\bin\Debug\lab4-cw3.exe
+Nie można znaleźć instalatorów publicznych z atrybutem RunInstallerAttribute.Yes w zestawie X:\studia-cs\Lab4\Lab4-cw3\bin\Debug\lab4-cw3.exe.
+Usuwanie pliku InstallState z powodu braku instalatorów.
+Instalowanie zestawu 'X:\studia-cs\Lab4\Lab4-cw3\bin\Debug\lab4-cw3.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = X:\studia-cs\Lab4\Lab4-cw3\bin\Debug\lab4-cw3.InstallLog
+   assemblypath = X:\studia-cs\Lab4\Lab4-cw3\bin\Debug\lab4-cw3.exe
+Nie można znaleźć instalatorów publicznych z atrybutem RunInstallerAttribute.Yes w zestawie X:\studia-cs\Lab4\Lab4-cw3\bin\Debug\lab4-cw3.exe.
+Zatwierdzanie zestawu 'X:\studia-cs\Lab4\Lab4-cw3\bin\Debug\lab4-cw3.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = X:\studia-cs\Lab4\Lab4-cw3\bin\Debug\lab4-cw3.InstallLog
+   assemblypath = X:\studia-cs\Lab4\Lab4-cw3\bin\Debug\lab4-cw3.exe
+Nie można znaleźć instalatorów publicznych z atrybutem RunInstallerAttribute.Yes w zestawie X:\studia-cs\Lab4\Lab4-cw3\bin\Debug\lab4-cw3.exe.
+Usuwanie pliku InstallState z powodu braku instalatorów.
+Instalowanie zestawu 'X:\studia-cs\Lab4\Lab4-cw3\bin\Debug\lab4-cw3.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = X:\studia-cs\Lab4\Lab4-cw3\bin\Debug\lab4-cw3.InstallLog
+   assemblypath = X:\studia-cs\Lab4\Lab4-cw3\bin\Debug\lab4-cw3.exe
+Trwa instalowanie usługi HelloService...
+Trwa tworzenie źródła EventLog HelloService w dzienniku Application...
+Wycofywanie zestawu 'X:\studia-cs\Lab4\Lab4-cw3\bin\Debug\lab4-cw3.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = X:\studia-cs\Lab4\Lab4-cw3\bin\Debug\lab4-cw3.InstallLog
+   assemblypath = X:\studia-cs\Lab4\Lab4-cw3\bin\Debug\lab4-cw3.exe
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła HelloService.
+Podczas fazy wycofywania instalatora System.Diagnostics.EventLogInstaller wystąpił wyjątek.
+System.Security.SecurityException: Nie znaleziono źródła, ale nie można przeszukać niektórych lub wszystkich dzienników zdarzeń. Niedostępne dzienniki: Security, State.
+Podczas fazy wycofywania instalacji wystąpił wyjątek. Wyjątek ten zostanie zignorowany, a wycofywanie będzie kontynuowane. Jednak po ukończeniu wycofywania komputer może nie powrócić całkowicie do stanu początkowego.
+Instalowanie zestawu 'X:\studia-cs\Lab4\Lab4-cw3\bin\Debug\lab4-cw3.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = X:\studia-cs\Lab4\Lab4-cw3\bin\Debug\lab4-cw3.InstallLog
+   assemblypath = X:\studia-cs\Lab4\Lab4-cw3\bin\Debug\lab4-cw3.exe
+Trwa instalowanie usługi HelloService...
+Trwa tworzenie źródła EventLog HelloService w dzienniku Application...
+Wycofywanie zestawu 'X:\studia-cs\Lab4\Lab4-cw3\bin\Debug\lab4-cw3.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = X:\studia-cs\Lab4\Lab4-cw3\bin\Debug\lab4-cw3.InstallLog
+   assemblypath = X:\studia-cs\Lab4\Lab4-cw3\bin\Debug\lab4-cw3.exe
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła HelloService.
+Podczas fazy wycofywania instalatora System.Diagnostics.EventLogInstaller wystąpił wyjątek.
+System.Security.SecurityException: Nie znaleziono źródła, ale nie można przeszukać niektórych lub wszystkich dzienników zdarzeń. Niedostępne dzienniki: Security, State.
+Podczas fazy wycofywania instalacji wystąpił wyjątek. Wyjątek ten zostanie zignorowany, a wycofywanie będzie kontynuowane. Jednak po ukończeniu wycofywania komputer może nie powrócić całkowicie do stanu początkowego.
+Instalowanie zestawu 'C:\dev\studia-cs\Lab4\Lab4-cw3\bin\Debug\lab4-cw3.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\dev\studia-cs\Lab4\Lab4-cw3\bin\Debug\lab4-cw3.InstallLog
+   assemblypath = C:\dev\studia-cs\Lab4\Lab4-cw3\bin\Debug\lab4-cw3.exe
+Trwa instalowanie usługi HelloService...
+Trwa tworzenie źródła EventLog HelloService w dzienniku Application...
+Wycofywanie zestawu 'C:\dev\studia-cs\Lab4\Lab4-cw3\bin\Debug\lab4-cw3.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\dev\studia-cs\Lab4\Lab4-cw3\bin\Debug\lab4-cw3.InstallLog
+   assemblypath = C:\dev\studia-cs\Lab4\Lab4-cw3\bin\Debug\lab4-cw3.exe
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła HelloService.
+Instalowanie zestawu 'C:\dev\studia-cs\Lab4\Lab4-cw3\bin\Debug\lab4-cw3.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\dev\studia-cs\Lab4\Lab4-cw3\bin\Debug\lab4-cw3.InstallLog
+   assemblypath = C:\dev\studia-cs\Lab4\Lab4-cw3\bin\Debug\lab4-cw3.exe
+Trwa instalowanie usługi HelloService...
+Usługa HelloService została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog HelloService w dzienniku Application...
+Zatwierdzanie zestawu 'C:\dev\studia-cs\Lab4\Lab4-cw3\bin\Debug\lab4-cw3.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\dev\studia-cs\Lab4\Lab4-cw3\bin\Debug\lab4-cw3.InstallLog
+   assemblypath = C:\dev\studia-cs\Lab4\Lab4-cw3\bin\Debug\lab4-cw3.exe
